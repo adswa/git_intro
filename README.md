@@ -106,7 +106,7 @@ Date:   Thu Jun 20 15:03:21 2019 +0200
 
 13) put more files into your repository: Call the first file ``nena.txt`` and add the lyrics to ["99 Luftballons"](https://www.nena.de/de/99-luftballons). Add the [first 300 digits of pi](http://digitsofpi.com/Top-300-Digits-Of-Pi.htm) to ``pi.txt``
     
-14) add and commit these files *subsequently*, e.g. by adding + committing and specifiying the file name explicitly (``git add nena.txt``, ``git commit nena.txt``)
+14) add and commit these files *subsequently*, e.g. by adding + committing and specifiying the file name explicitly (``git add nena.txt``, ``git commit -m " helpful message "``)
 
 15) Delete the last verse from 99 Luftballons. Show the difference with ``git diff``, then add and commit your changes.
 ```diff
