@@ -1,1 +1,1 @@
-xkcd.com/530
+hello world
